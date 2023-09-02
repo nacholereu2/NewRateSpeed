@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693094345664,
+  "timestamp": 1693652339953,
   "index": "/NewRateSpeed/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/NewRateSpeed/favicon.ico",
         "/NewRateSpeed/index.html",
-        "/NewRateSpeed/main.cf76a6a5f7aacdd9.js",
+        "/NewRateSpeed/main.553af98bddd6826b.js",
         "/NewRateSpeed/manifest.webmanifest",
         "/NewRateSpeed/polyfills.bb41ca504682ecf6.js",
         "/NewRateSpeed/runtime.5b3ba9a1184538cf.js",
@@ -52,8 +52,8 @@
     "/NewRateSpeed/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/NewRateSpeed/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/NewRateSpeed/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/NewRateSpeed/index.html": "45656b2548cfcd917db7732abb2d65884308a808",
-    "/NewRateSpeed/main.cf76a6a5f7aacdd9.js": "ffdfb1c92961473bd4238d755379e5e771de2317",
+    "/NewRateSpeed/index.html": "dd831815f9374961d3277174e78b07096fcd2ac1",
+    "/NewRateSpeed/main.553af98bddd6826b.js": "27cc9af0bfa6167dc44290519d06755275f2c5f6",
     "/NewRateSpeed/manifest.webmanifest": "2e938b092683c8df0a4b5ee4fe123b98a22937f7",
     "/NewRateSpeed/polyfills.bb41ca504682ecf6.js": "15e57a6e65c09b68b93e54aa08b54dd35878102f",
     "/NewRateSpeed/runtime.5b3ba9a1184538cf.js": "94590f0fb4318ecc1c63aa62e0266ea8082075aa",
